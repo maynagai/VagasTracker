@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VagasTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7281850112213d095473a300e89073c09ca8014")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cc9ef59ed665b0b988aa70a966a4dc74937d7d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("VagasTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VagasTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
